@@ -47,7 +47,7 @@ h2.text {
 }
 
 i:hover {
-    color: #5865f2;
+    color: #6E70F5;
 }
 
 .content {
@@ -83,6 +83,7 @@ i:hover {
 .text-content {
     text-align: center;
     font-size: 30px;
+    color: #181936;
 }
 
 .title-content-v2.aos-init.aos-animate {
@@ -98,18 +99,12 @@ i:hover {
 
 .contentv2 {
     background-color: #2C3E50;
-    height: 930px;
+    height: 1500px;
     width: 100%;
     font-family: "Poppins";
     background-repeat: repeat;
     background-position: top left;
     background-attachment: scroll;
-}
-
-.col-3 {
-    padding-top: 50px;
-    margin-left: 50px;
-    padding-left: 50px;
 }
 
 .container {
@@ -129,7 +124,14 @@ i:hover {
 }
 
 h4.card-title {
-    font-size: 30px;
+    font-size: 18px;
     color: #232323;
     font-family: "Poppins";
+    text-align: left;
+    padding-left: 15px;
+}
+
+.card-body {
+    background-color: #e5e5e5;
+    border-color:#e5e5e5;
 }
